@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string-array name="service">
+        <item>deposit</item>
+        <item>withdraw</item>
+        <item>transfer</item>
+    </string-array>
+</resources>
